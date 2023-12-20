@@ -1,5 +1,5 @@
 {
-  "name": "most-star-cli",
+  "name": "most-star",
   "version": "1.0.3",
   "description": "get 10 most starred projects on Github that were pushed in a date range, in descending order",
   "main": "./bin/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wilson-here/most-starred-projects.git"
+    "url": "git+https://github.com/wilson-here/most-star.git"
   },
   "keywords": [
     "most star",
@@ -17,11 +17,11 @@
     "repository"
   ],
   "author": "wilson-here",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wilson-here/most-starred-projects/issues"
+    "url": "https://github.com/wilson-here/most-star/issues"
   },
-  "homepage": "https://github.com/wilson-here/most-starred-projects#readme",
+  "homepage": "https://github.com/wilson-here/most-star#readme",
   "bin": {
     "fetch-repo": "./bin/index.js"
   }
