@@ -1,0 +1,25 @@
+{
+  "name": "most-starred-projects",
+  "version": "1.0.1",
+  "description": "get 10 most starred projects on Github that were pushed in a date range, in descending order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson-here/most-starred-projects.git"
+  },
+  "keywords": [
+    "most",
+    "star",
+    "github",
+    "repository"
+  ],
+  "author": "wilson-here",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilson-here/most-starred-projects/issues"
+  },
+  "homepage": "https://github.com/wilson-here/most-starred-projects#readme"
+}
