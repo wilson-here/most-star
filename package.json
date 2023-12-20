@@ -1,6 +1,6 @@
 {
   "name": "most-star-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "get 10 most starred projects on Github that were pushed in a date range, in descending order",
   "main": "./bin/index.js",
   "scripts": {
