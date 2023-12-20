@@ -1,4 +1,4 @@
-# [Most Star](https://www.npmjs.com/package/most-star) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wilson-here/most-star/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/most-star) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://www.npmjs.com/package/most-star-cli#Contributing)
+# [Most Star](https://www.npmjs.com/package/most-star) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wilson-here/most-star/LICENSE) [![npm version](https://img.shields.io/npm/v/most-star.svg?style=flat)](https://www.npmjs.com/package/most-star) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://www.npmjs.com/package/most-star-cli#Contributing)
 
 ## Overview
 
