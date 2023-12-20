@@ -1,4 +1,4 @@
-# Most starred CLI
+# Most star CLI
 
 Get 10 most starred projects on Github that were pushed in a date range, in descending order.
 
@@ -11,11 +11,11 @@ Get 10 most starred projects on Github that were pushed in a date range, in desc
 
 ## Example
 
-1. Retrieve projects pushed between October 11, 2020, and November 30, 2020:
+1. Retrieve projects pushed between October 11, 2020, and November 30, 2020:<br>
    `fetch-repo 2020-10-11 2020-11-31`
 
-2. Retrieve projects pushed since October 11, 2020, until the current date:
+2. Retrieve projects pushed since October 11, 2020, until the current date:<br>
    `fetch-repo 2020-10-11`
 
-3. Retrieve the most starred projects of all time:
+3. Retrieve the most starred projects of all time:<br>
    `fetch-repo`
